@@ -44,12 +44,12 @@ Before starting the installation, ensure you have the following installed:
    npx expo install react-dom react-native-web
    npx expo install @expo/metro-runtime
 
-3.Install additional project dependencies:
+3. Install additional project dependencies:
   ```bash
-  npm install @react-navigation/native @react-navigation/native-stack react-native-paper react-native-safe-area-context
+   npm install @react-navigation/native @react-navigation/native-stack react-native-paper react-native-safe-area-context
 
-4.Start the development server:
-  ```bash
- npx expo start
+4. Start the Development Server:
+    ```bash
+   npx expo start
 
 
