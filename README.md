@@ -1,4 +1,4 @@
-# University of Vavuniya Mobile App
+# Day-11 Practical
 
 This is a mobile application built for the University of Vavuniya. The app offers key features such as viewing university information, contacting the institution, and navigating between different sections, providing an interactive experience for users.
 
@@ -50,6 +50,6 @@ Before starting the installation, ensure you have the following installed:
 
 4.Start the development server:
   ```bash
-  npx expo start
+ npx expo start
 
 
